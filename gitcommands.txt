@@ -1,0 +1,15 @@
+we will learn the git commands 
+list of commanly used git commands
+
+git --version
+tells us current installed version of git
+
+git init
+used to initialized git repository if already exists then it will reinitialized it
+it will create local repository
+
+git status
+it lists all the modified or new files which are ready to add to the local repository
+
+git add <driectory>
+

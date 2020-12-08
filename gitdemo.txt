@@ -1,0 +1,14 @@
+Software Engineering.
+
+What is software?
+	collection of programs i.e. code in programming language.
+
+how the software is developed?
+	get the req from customer
+	plan it out - activities- design, develop, test, evaluate
+	execute plan - activities - prepare docs - standards, policies, rules, etc.,
+		problems  - solution, changes - handle the changes.
+	application is ready to be delivered.
+
+what are the entities involved while developing ay application?
+	design, develop, test, evaluate
